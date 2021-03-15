@@ -118,252 +118,167 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DateHumanize_SingleSecondAgo" xml:space="preserve">
-    <value>pred eno sekundo</value>
+    <value>sedetik yang lalu</value>
+    <comment>one second ago</comment>
   </data>
   <data name="DateHumanize_MultipleSecondsAgo" xml:space="preserve">
-    <value>pred {0} sekundami</value>
+    <value>{0} detik yang lalu</value>
+    <comment>{0} seconds ago</comment>
   </data>
   <data name="DateHumanize_SingleMinuteAgo" xml:space="preserve">
-    <value>pred eno minuto</value>
+    <value>semenit yang lalu</value>
+    <comment>a minute ago</comment>
   </data>
   <data name="DateHumanize_MultipleMinutesAgo" xml:space="preserve">
-    <value>pred {0} minutami</value>
+    <value>{0} menit yang lalu</value>
+    <comment>{0} minutes ago</comment>
   </data>
   <data name="DateHumanize_SingleHourAgo" xml:space="preserve">
-    <value>pred eno uro</value>
+    <value>sejam yang lalu</value>
+    <comment>an hour ago</comment>
   </data>
   <data name="DateHumanize_MultipleHoursAgo" xml:space="preserve">
-    <value>pred {0} urami</value>
+    <value>{0} jam yang lalu</value>
+    <comment>{0} hours ago</comment>
   </data>
   <data name="DateHumanize_SingleDayAgo" xml:space="preserve">
-    <value>včeraj</value>
+    <value>kemarin</value>
+    <comment>yesterday</comment>
   </data>
   <data name="DateHumanize_MultipleDaysAgo" xml:space="preserve">
-    <value>pred {0} dnevi</value>
+    <value>{0} hari yang lalu</value>
+    <comment>{0} days ago</comment>
   </data>
   <data name="DateHumanize_SingleMonthAgo" xml:space="preserve">
-    <value>pred enim mesecem</value>
+    <value>sebulan yang lalu</value>
+    <comment>one month ago</comment>
   </data>
   <data name="DateHumanize_MultipleMonthsAgo" xml:space="preserve">
-    <value>pred {0} meseci</value>
+    <value>{0} bulan yang lalu</value>
+    <comment>{0} months ago</comment>
   </data>
   <data name="DateHumanize_SingleYearAgo" xml:space="preserve">
-    <value>pred enim letom</value>
+    <value>setahun yang lalu</value>
+    <comment>one year ago</comment>
   </data>
   <data name="DateHumanize_MultipleYearsAgo" xml:space="preserve">
-    <value>pred {0} leti</value>
+    <value>{0} tahun yang lalu</value>
+    <comment>{0} years ago</comment>
   </data>
   <data name="TimeSpanHumanize_MultipleDays" xml:space="preserve">
-    <value>{0} dni</value>
+    <value>{0} hari</value>
+    <comment>{0} days</comment>
   </data>
   <data name="TimeSpanHumanize_MultipleHours" xml:space="preserve">
-    <value>{0} ur</value>
+    <value>{0} jam</value>
+    <comment>{0} hours</comment>
   </data>
   <data name="TimeSpanHumanize_MultipleMilliseconds" xml:space="preserve">
-    <value>{0} milisekund</value>
+    <value>{0} milidetik</value>
+    <comment>{0} milliseconds</comment>
   </data>
   <data name="TimeSpanHumanize_MultipleMinutes" xml:space="preserve">
-    <value>{0} minut</value>
+    <value>{0} menit</value>
+    <comment>{0} minutes</comment>
   </data>
   <data name="TimeSpanHumanize_MultipleSeconds" xml:space="preserve">
-    <value>{0} sekund</value>
+    <value>{0} detik</value>
+    <comment>{0} seconds</comment>
   </data>
   <data name="TimeSpanHumanize_SingleDay" xml:space="preserve">
-    <value>1 dan</value>
+    <value>1 hari</value>
+    <comment>1 day</comment>
   </data>
   <data name="TimeSpanHumanize_SingleHour" xml:space="preserve">
-    <value>1 ura</value>
+    <value>1 jam</value>
+    <comment>1 hour</comment>
   </data>
   <data name="TimeSpanHumanize_SingleMillisecond" xml:space="preserve">
-    <value>1 milisekunda</value>
+    <value>1 milidetik</value>
+    <comment>1 millisecond</comment>
   </data>
   <data name="TimeSpanHumanize_SingleMinute" xml:space="preserve">
-    <value>1 minuta</value>
+    <value>1 menit</value>
+    <comment>1 minute</comment>
   </data>
   <data name="TimeSpanHumanize_SingleSecond" xml:space="preserve">
-    <value>1 sekunda</value>
+    <value>1 detik</value>
+    <comment>1 second</comment>
   </data>
   <data name="TimeSpanHumanize_Zero" xml:space="preserve">
-    <value>nič časa</value>
+    <value>waktu kosong</value>
+    <comment>no time</comment>
   </data>
   <data name="TimeSpanHumanize_MultipleWeeks" xml:space="preserve">
-    <value>{0} tednov</value>
+    <value>{0} minggu</value>
+    <comment>{0} weeks</comment>
   </data>
   <data name="TimeSpanHumanize_SingleWeek" xml:space="preserve">
-    <value>1 teden</value>
+    <value>1 minggu</value>
+    <comment>1 week</comment>
   </data>
   <data name="DateHumanize_MultipleDaysFromNow" xml:space="preserve">
-    <value>čez {0} dni</value>
+    <value>{0} hari dari sekarang</value>
+    <comment>{0} days from now</comment>
   </data>
   <data name="DateHumanize_MultipleHoursFromNow" xml:space="preserve">
-    <value>čez {0} ur</value>
+    <value>{0} jam dari sekarang</value>
+    <comment>{0} hours from now</comment>
   </data>
   <data name="DateHumanize_MultipleMinutesFromNow" xml:space="preserve">
-    <value>čez {0} minut</value>
+    <value>{0} menit dari sekarang</value>
+    <comment>{0} minutes from now</comment>
   </data>
   <data name="DateHumanize_MultipleMonthsFromNow" xml:space="preserve">
-    <value>čez {0} mesecev</value>
+    <value>{0} bulan dari sekarang</value>
+    <comment>{0} months from now</comment>
   </data>
   <data name="DateHumanize_MultipleSecondsFromNow" xml:space="preserve">
-    <value>čez {0} sekund</value>
+    <value>{0} detik dari sekarang</value>
+    <comment>{0} seconds from now</comment>
   </data>
   <data name="DateHumanize_MultipleYearsFromNow" xml:space="preserve">
-    <value>čez {0} let</value>
+    <value>{0} tahun dari sekarang</value>
+    <comment>{0} years from now</comment>
   </data>
   <data name="DateHumanize_Now" xml:space="preserve">
-    <value>sedaj</value>
+    <value>sekarang</value>
+    <comment>now</comment>
   </data>
   <data name="DateHumanize_SingleDayFromNow" xml:space="preserve">
-    <value>jutri</value>
+    <value>besok</value>
+    <comment>tomorrow</comment>
   </data>
   <data name="DateHumanize_SingleHourFromNow" xml:space="preserve">
-    <value>čez eno uro</value>
+    <value>sejam dari sekarang</value>
+    <comment>an hour from now</comment>
   </data>
   <data name="DateHumanize_SingleMinuteFromNow" xml:space="preserve">
-    <value>čez eno minuto</value>
+    <value>semenit dari sekarang</value>
+    <comment>a minute from now</comment>
   </data>
   <data name="DateHumanize_SingleMonthFromNow" xml:space="preserve">
-    <value>čez en mesec</value>
+    <value>sebulan dari sekarang</value>
+    <comment>one month from now</comment>
   </data>
   <data name="DateHumanize_SingleSecondFromNow" xml:space="preserve">
-    <value>čez eno sekundo</value>
+    <value>sedetik dari sekarang</value>
+    <comment>one second from now</comment>
   </data>
   <data name="DateHumanize_SingleYearFromNow" xml:space="preserve">
-    <value>čez eno leto</value>
-  </data>
-  <data name="DateHumanize_MultipleDaysAgo_Dual" xml:space="preserve">
-    <value>pred {0} dnevoma</value>
-  </data>
-  <data name="DateHumanize_MultipleDaysAgo_TrialQuadral" xml:space="preserve">
-    <value>pred {0} dnevi</value>
-  </data>
-  <data name="DateHumanize_MultipleDaysFromNow_Dual" xml:space="preserve">
-    <value>čez {0} dni</value>
-  </data>
-  <data name="DateHumanize_MultipleDaysFromNow_TrialQuadral" xml:space="preserve">
-    <value>čez {0} dni</value>
-  </data>
-  <data name="DateHumanize_MultipleHoursAgo_Dual" xml:space="preserve">
-    <value>pred {0} urama</value>
-  </data>
-  <data name="DateHumanize_MultipleHoursAgo_TrialQuadral" xml:space="preserve">
-    <value>pred {0} urami</value>
-  </data>
-  <data name="DateHumanize_MultipleHoursFromNow_Dual" xml:space="preserve">
-    <value>čez {0} uri</value>
-  </data>
-  <data name="DateHumanize_MultipleHoursFromNow_TrialQuadral" xml:space="preserve">
-    <value>čez {0} ure</value>
-  </data>
-  <data name="DateHumanize_MultipleMinutesAgo_Dual" xml:space="preserve">
-    <value>pred {0} minutama</value>
-  </data>
-  <data name="DateHumanize_MultipleMinutesAgo_TrialQuadral" xml:space="preserve">
-    <value>pred {0} minutami</value>
-  </data>
-  <data name="DateHumanize_MultipleMinutesFromNow_Dual" xml:space="preserve">
-    <value>čez {0} minuti</value>
-  </data>
-  <data name="DateHumanize_MultipleMinutesFromNow_TrialQuadral" xml:space="preserve">
-    <value>čez {0} minute</value>
-  </data>
-  <data name="DateHumanize_MultipleMonthsAgo_Dual" xml:space="preserve">
-    <value>pred {0} mesecema</value>
-  </data>
-  <data name="DateHumanize_MultipleMonthsAgo_TrialQuadral" xml:space="preserve">
-    <value>pred {0} meseci</value>
-  </data>
-  <data name="DateHumanize_MultipleMonthsFromNow_Dual" xml:space="preserve">
-    <value>čez {0} meseca</value>
-  </data>
-  <data name="DateHumanize_MultipleMonthsFromNow_TrialQuadral" xml:space="preserve">
-    <value>čez {0} mesece</value>
-  </data>
-  <data name="DateHumanize_MultipleSecondsAgo_Dual" xml:space="preserve">
-    <value>pred {0} sekundama</value>
-  </data>
-  <data name="DateHumanize_MultipleSecondsAgo_TrialQuadral" xml:space="preserve">
-    <value>pred {0} sekundami</value>
-  </data>
-  <data name="DateHumanize_MultipleSecondsFromNow_Dual" xml:space="preserve">
-    <value>čez {0} sekundi</value>
-  </data>
-  <data name="DateHumanize_MultipleSecondsFromNow_TrialQuadral" xml:space="preserve">
-    <value>čez {0} sekunde</value>
-  </data>
-  <data name="DateHumanize_MultipleYearsAgo_Dual" xml:space="preserve">
-    <value>pred {0} letoma</value>
-  </data>
-  <data name="DateHumanize_MultipleYearsAgo_TrialQuadral" xml:space="preserve">
-    <value>pred {0} leti</value>
-  </data>
-  <data name="DateHumanize_MultipleYearsFromNow_Dual" xml:space="preserve">
-    <value>čez {0} leti</value>
-  </data>
-  <data name="DateHumanize_MultipleYearsFromNow_TrialQuadral" xml:space="preserve">
-    <value>čez {0} leta</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleDays_Dual" xml:space="preserve">
-    <value>{0} dneva</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleDays_TrialQuadral" xml:space="preserve">
-    <value>{0} dni</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleHours_Dual" xml:space="preserve">
-    <value>{0} uri</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleHours_TrialQuadral" xml:space="preserve">
-    <value>{0} ure</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleMilliseconds_Dual" xml:space="preserve">
-    <value>{0} milisekundi</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleMilliseconds_TrialQuadral" xml:space="preserve">
-    <value>{0} milisekunde</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleMinutes_Dual" xml:space="preserve">
-    <value>{0} minuti</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleMinutes_TrialQuadral" xml:space="preserve">
-    <value>{0} minute</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleSeconds_Dual" xml:space="preserve">
-    <value>{0} sekundi</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleSeconds_TrialQuadral" xml:space="preserve">
-    <value>{0} sekunde</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleWeeks_Dual" xml:space="preserve">
-    <value>{0} tedna</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleWeeks_TrialQuadral" xml:space="preserve">
-    <value>{0} tedne</value>
-  </data>
-  <data name="DateHumanize_Never" xml:space="preserve">
-    <value>nikoli</value>
+    <value>setahun dari sekarang</value>
+    <comment>one year from now</comment>
   </data>
   <data name="TimeSpanHumanize_MultipleMonths" xml:space="preserve">
-    <value>{0} mesecev</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleMonths_Dual" xml:space="preserve">
-    <value>{0} meseca</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleMonths_TrialQuadral" xml:space="preserve">
-    <value>{0} mesece</value>
+    <value>{0} bulan</value>
   </data>
   <data name="TimeSpanHumanize_MultipleYears" xml:space="preserve">
-    <value>{0} let</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleYears_Dual" xml:space="preserve">
-    <value>{0} leti</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleYears_TrialQuadral" xml:space="preserve">
-    <value>{0} leta</value>
+    <value>{0} tahun</value>
   </data>
   <data name="TimeSpanHumanize_SingleMonth" xml:space="preserve">
-    <value>1 mesec</value>
+    <value>1 bulan</value>
   </data>
   <data name="TimeSpanHumanize_SingleYear" xml:space="preserve">
-    <value>1 leto</value>
+    <value>1 tahun</value>
   </data>
 </root>
