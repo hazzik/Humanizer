@@ -118,129 +118,129 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DateHumanize_SingleSecondAgo" xml:space="preserve">
-    <value>cách đây một giây</value>
+    <value>1 秒钟前</value>
   </data>
   <data name="DateHumanize_MultipleSecondsAgo" xml:space="preserve">
-    <value>cách đây {0} giây</value>
+    <value>{0} 秒钟前</value>
   </data>
   <data name="DateHumanize_SingleMinuteAgo" xml:space="preserve">
-    <value>cách đây một phút</value>
+    <value>1 分钟前</value>
   </data>
   <data name="DateHumanize_MultipleMinutesAgo" xml:space="preserve">
-    <value>cách đây {0} phút</value>
+    <value>{0} 分钟前</value>
   </data>
   <data name="DateHumanize_SingleHourAgo" xml:space="preserve">
-    <value>cách đây một tiếng</value>
+    <value>1 小时前</value>
   </data>
   <data name="DateHumanize_MultipleHoursAgo" xml:space="preserve">
-    <value>cách đây {0} tiếng</value>
+    <value>{0} 小时前</value>
   </data>
   <data name="DateHumanize_SingleDayAgo" xml:space="preserve">
-    <value>hôm qua</value>
+    <value>昨天</value>
   </data>
   <data name="DateHumanize_MultipleDaysAgo" xml:space="preserve">
-    <value>cách đây {0} ngày</value>
+    <value>{0} 天前</value>
   </data>
   <data name="DateHumanize_SingleMonthAgo" xml:space="preserve">
-    <value>cách đây một tháng</value>
+    <value>1 个月前</value>
   </data>
   <data name="DateHumanize_MultipleMonthsAgo" xml:space="preserve">
-    <value>cách đây {0} tháng</value>
+    <value>{0} 个月前</value>
   </data>
   <data name="DateHumanize_SingleYearAgo" xml:space="preserve">
-    <value>cách đây một năm</value>
+    <value>去年</value>
   </data>
   <data name="DateHumanize_MultipleYearsAgo" xml:space="preserve">
-    <value>cách đây {0} năm</value>
+    <value>{0} 年前</value>
   </data>
   <data name="TimeSpanHumanize_MultipleDays" xml:space="preserve">
-    <value>{0} ngày</value>
+    <value>{0} 天</value>
   </data>
   <data name="TimeSpanHumanize_MultipleHours" xml:space="preserve">
-    <value>{0} giờ</value>
+    <value>{0} 小时</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMilliseconds" xml:space="preserve">
-    <value>{0} phần ngàn giây</value>
+    <value>{0} 毫秒</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMinutes" xml:space="preserve">
-    <value>{0} phút</value>
+    <value>{0} 分</value>
   </data>
   <data name="TimeSpanHumanize_MultipleSeconds" xml:space="preserve">
-    <value>{0} giây</value>
+    <value>{0} 秒</value>
   </data>
   <data name="TimeSpanHumanize_SingleDay" xml:space="preserve">
-    <value>1 ngày</value>
+    <value>1 天</value>
   </data>
   <data name="TimeSpanHumanize_SingleHour" xml:space="preserve">
-    <value>1 giờ</value>
+    <value>1 小时</value>
   </data>
   <data name="TimeSpanHumanize_SingleMillisecond" xml:space="preserve">
-    <value>1 phần ngàn giây</value>
+    <value>1 毫秒</value>
   </data>
   <data name="TimeSpanHumanize_SingleMinute" xml:space="preserve">
-    <value>1 phút</value>
+    <value>1 分</value>
   </data>
   <data name="TimeSpanHumanize_SingleSecond" xml:space="preserve">
-    <value>1 giây</value>
+    <value>1 秒</value>
   </data>
   <data name="TimeSpanHumanize_Zero" xml:space="preserve">
-    <value>không giờ</value>
+    <value>没有时间</value>
   </data>
   <data name="TimeSpanHumanize_MultipleWeeks" xml:space="preserve">
-    <value>{0} tuần</value>
+    <value>{0} 周</value>
   </data>
   <data name="TimeSpanHumanize_SingleWeek" xml:space="preserve">
-    <value>1 tuần</value>
+    <value>1 周</value>
   </data>
   <data name="DateHumanize_MultipleDaysFromNow" xml:space="preserve">
-    <value>{0} ngày nữa</value>
+    <value>{0} 天后</value>
   </data>
   <data name="DateHumanize_MultipleHoursFromNow" xml:space="preserve">
-    <value>{0} tiếng nữa</value>
+    <value>{0} 小时后</value>
   </data>
   <data name="DateHumanize_MultipleMinutesFromNow" xml:space="preserve">
-    <value>{0} phút nữa</value>
+    <value>{0} 分钟后</value>
   </data>
   <data name="DateHumanize_MultipleMonthsFromNow" xml:space="preserve">
-    <value>{0} tháng nữa</value>
+    <value>{0} 个月后</value>
   </data>
   <data name="DateHumanize_MultipleSecondsFromNow" xml:space="preserve">
-    <value>{0} giây nữa</value>
+    <value>{0} 秒钟后</value>
   </data>
   <data name="DateHumanize_MultipleYearsFromNow" xml:space="preserve">
-    <value>{0} năm nữa</value>
+    <value>{0} 年后</value>
   </data>
   <data name="DateHumanize_Now" xml:space="preserve">
-    <value>bây giờ</value>
+    <value>今天</value>
   </data>
   <data name="DateHumanize_SingleDayFromNow" xml:space="preserve">
-    <value>ngày mai</value>
+    <value>明天</value>
   </data>
   <data name="DateHumanize_SingleHourFromNow" xml:space="preserve">
-    <value>một tiếng nữa</value>
+    <value>1 小时后</value>
   </data>
   <data name="DateHumanize_SingleMinuteFromNow" xml:space="preserve">
-    <value>một phút nữa</value>
+    <value>1 分钟后</value>
   </data>
   <data name="DateHumanize_SingleMonthFromNow" xml:space="preserve">
-    <value>một tháng nữa</value>
+    <value>1 个月后</value>
   </data>
   <data name="DateHumanize_SingleSecondFromNow" xml:space="preserve">
-    <value>một giây nữa</value>
+    <value>1 秒钟后</value>
   </data>
   <data name="DateHumanize_SingleYearFromNow" xml:space="preserve">
-    <value>một năm nữa</value>
+    <value>明年</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMonths" xml:space="preserve">
-    <value>{0} tháng</value>
+    <value>{0} 个月</value>
   </data>
   <data name="TimeSpanHumanize_MultipleYears" xml:space="preserve">
-    <value>{0} năm</value>
+    <value>{0} 年</value>
   </data>
   <data name="TimeSpanHumanize_SingleMonth" xml:space="preserve">
-    <value>1 tháng</value>
+    <value>1 个月</value>
   </data>
   <data name="TimeSpanHumanize_SingleYear" xml:space="preserve">
-    <value>1 năm</value>
+    <value>1 年</value>
   </data>
 </root>
