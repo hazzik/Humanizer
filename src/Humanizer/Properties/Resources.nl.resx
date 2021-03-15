@@ -118,118 +118,118 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DateHumanize_SingleSecondAgo" xml:space="preserve">
-    <value>one second ago</value>
+    <value>1 seconde geleden</value>
   </data>
   <data name="DateHumanize_MultipleSecondsAgo" xml:space="preserve">
-    <value>{0} seconds ago</value>
+    <value>{0} seconden geleden</value>
   </data>
   <data name="DateHumanize_SingleMinuteAgo" xml:space="preserve">
-    <value>a minute ago</value>
+    <value>1 minuut geleden</value>
   </data>
   <data name="DateHumanize_MultipleMinutesAgo" xml:space="preserve">
-    <value>{0} minutes ago</value>
+    <value>{0} minuten geleden</value>
   </data>
   <data name="DateHumanize_SingleHourAgo" xml:space="preserve">
-    <value>an hour ago</value>
+    <value>1 uur geleden</value>
   </data>
   <data name="DateHumanize_MultipleHoursAgo" xml:space="preserve">
-    <value>{0} hours ago</value>
+    <value>{0} uur geleden</value>
   </data>
   <data name="DateHumanize_SingleDayAgo" xml:space="preserve">
-    <value>yesterday</value>
+    <value>gisteren</value>
   </data>
   <data name="DateHumanize_MultipleDaysAgo" xml:space="preserve">
-    <value>{0} days ago</value>
+    <value>{0} dagen geleden</value>
   </data>
   <data name="DateHumanize_SingleMonthAgo" xml:space="preserve">
-    <value>one month ago</value>
+    <value>1 maand geleden</value>
   </data>
   <data name="DateHumanize_MultipleMonthsAgo" xml:space="preserve">
-    <value>{0} months ago</value>
+    <value>{0} maanden geleden</value>
   </data>
   <data name="DateHumanize_SingleYearAgo" xml:space="preserve">
-    <value>one year ago</value>
+    <value>1 jaar geleden</value>
   </data>
   <data name="DateHumanize_MultipleYearsAgo" xml:space="preserve">
-    <value>{0} years ago</value>
+    <value>{0} jaar geleden</value>
   </data>
   <data name="TimeSpanHumanize_MultipleDays" xml:space="preserve">
-    <value>{0} days</value>
+    <value>{0} dagen</value>
   </data>
   <data name="TimeSpanHumanize_MultipleHours" xml:space="preserve">
-    <value>{0} hours</value>
+    <value>{0} uur</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMilliseconds" xml:space="preserve">
-    <value>{0} milliseconds</value>
+    <value>{0} milliseconden</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMinutes" xml:space="preserve">
-    <value>{0} minutes</value>
+    <value>{0} minuten</value>
   </data>
   <data name="TimeSpanHumanize_MultipleSeconds" xml:space="preserve">
-    <value>{0} seconds</value>
+    <value>{0} seconden</value>
   </data>
   <data name="TimeSpanHumanize_SingleDay" xml:space="preserve">
-    <value>1 day</value>
+    <value>1 dag</value>
   </data>
   <data name="TimeSpanHumanize_SingleHour" xml:space="preserve">
-    <value>1 hour</value>
+    <value>1 uur</value>
   </data>
   <data name="TimeSpanHumanize_SingleMillisecond" xml:space="preserve">
-    <value>1 millisecond</value>
+    <value>1 milliseconde</value>
   </data>
   <data name="TimeSpanHumanize_SingleMinute" xml:space="preserve">
-    <value>1 minute</value>
+    <value>1 minuut</value>
   </data>
   <data name="TimeSpanHumanize_SingleSecond" xml:space="preserve">
-    <value>1 second</value>
+    <value>1 seconde</value>
   </data>
   <data name="TimeSpanHumanize_Zero" xml:space="preserve">
-    <value>no time</value>
+    <value>geen tijd</value>
   </data>
   <data name="TimeSpanHumanize_MultipleWeeks" xml:space="preserve">
-    <value>{0} weeks</value>
+    <value>{0} weken</value>
   </data>
   <data name="TimeSpanHumanize_SingleWeek" xml:space="preserve">
     <value>1 week</value>
   </data>
   <data name="DateHumanize_MultipleDaysFromNow" xml:space="preserve">
-    <value>{0} days from now</value>
+    <value>over {0} dagen</value>
   </data>
   <data name="DateHumanize_MultipleHoursFromNow" xml:space="preserve">
-    <value>{0} hours from now</value>
+    <value>over {0} uur</value>
   </data>
   <data name="DateHumanize_MultipleMinutesFromNow" xml:space="preserve">
-    <value>{0} minutes from now</value>
+    <value>over {0} minuten</value>
   </data>
   <data name="DateHumanize_MultipleMonthsFromNow" xml:space="preserve">
-    <value>{0} months from now</value>
+    <value>over {0} maanden</value>
   </data>
   <data name="DateHumanize_MultipleSecondsFromNow" xml:space="preserve">
-    <value>{0} seconds from now</value>
+    <value>over {0} seconden</value>
   </data>
   <data name="DateHumanize_MultipleYearsFromNow" xml:space="preserve">
-    <value>{0} years from now</value>
+    <value>over {0} jaar</value>
   </data>
   <data name="DateHumanize_Now" xml:space="preserve">
-    <value>now</value>
+    <value>nu</value>
   </data>
   <data name="DateHumanize_SingleDayFromNow" xml:space="preserve">
-    <value>tomorrow</value>
+    <value>morgen</value>
   </data>
   <data name="DateHumanize_SingleHourFromNow" xml:space="preserve">
-    <value>an hour from now</value>
+    <value>over 1 uur</value>
   </data>
   <data name="DateHumanize_SingleMinuteFromNow" xml:space="preserve">
-    <value>a minute from now</value>
+    <value>over 1 minuut</value>
   </data>
   <data name="DateHumanize_SingleMonthFromNow" xml:space="preserve">
-    <value>one month from now</value>
+    <value>over 1 maand</value>
   </data>
   <data name="DateHumanize_SingleSecondFromNow" xml:space="preserve">
-    <value>one second from now</value>
+    <value>over 1 seconde</value>
   </data>
   <data name="DateHumanize_SingleYearFromNow" xml:space="preserve">
-    <value>one year from now</value>
+    <value>over 1 jaar</value>
   </data>
   <data name="DateHumanize_MultipleHoursFromNow_Dual" xml:space="preserve">
     <value>{0} hours from now</value>
@@ -463,16 +463,16 @@
     <value>{0} weeks</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMonths" xml:space="preserve">
-    <value>{0} months</value>
+    <value>{0} maanden</value>
   </data>
   <data name="TimeSpanHumanize_MultipleYears" xml:space="preserve">
-    <value>{0} years</value>
+    <value>{0} jaar</value>
   </data>
   <data name="TimeSpanHumanize_SingleMonth" xml:space="preserve">
-    <value>1 month</value>
+    <value>1 maand</value>
   </data>
   <data name="TimeSpanHumanize_SingleYear" xml:space="preserve">
-    <value>1 year</value>
+    <value>1 jaar</value>
   </data>
   <data name="DateHumanize_MultipleHoursAgo_DualTrialQuadral" xml:space="preserve">
     <value>{0} hours ago</value>
