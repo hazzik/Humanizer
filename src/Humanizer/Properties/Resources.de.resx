@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,129 +118,129 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DateHumanize_SingleSecondAgo" xml:space="preserve">
-    <value>یک ثانیه پیش</value>
+    <value>hace un segundo</value>
   </data>
   <data name="DateHumanize_MultipleSecondsAgo" xml:space="preserve">
-    <value>{0} ثانیه پیش</value>
+    <value>hace {0} segundos</value>
   </data>
   <data name="DateHumanize_SingleMinuteAgo" xml:space="preserve">
-    <value>یک دقیقه پیش</value>
+    <value>hace un minuto</value>
   </data>
   <data name="DateHumanize_MultipleMinutesAgo" xml:space="preserve">
-    <value>{0} دقیقه پیش</value>
+    <value>hace {0} minutos</value>
   </data>
   <data name="DateHumanize_SingleHourAgo" xml:space="preserve">
-    <value>یک ساعت پیش</value>
+    <value>hace una hora</value>
   </data>
   <data name="DateHumanize_MultipleHoursAgo" xml:space="preserve">
-    <value>{0} ساعت پیش</value>
+    <value>hace {0} horas</value>
   </data>
   <data name="DateHumanize_SingleDayAgo" xml:space="preserve">
-    <value>دیروز</value>
+    <value>ayer</value>
   </data>
   <data name="DateHumanize_MultipleDaysAgo" xml:space="preserve">
-    <value>{0} روز پیش</value>
+    <value>hace {0} días</value>
   </data>
   <data name="DateHumanize_SingleMonthAgo" xml:space="preserve">
-    <value>یک ماه پیش</value>
+    <value>hace un mes</value>
   </data>
   <data name="DateHumanize_MultipleMonthsAgo" xml:space="preserve">
-    <value>{0} ماه پیش</value>
+    <value>hace {0} meses</value>
   </data>
   <data name="DateHumanize_SingleYearAgo" xml:space="preserve">
-    <value>یک سال پیش</value>
+    <value>hace un año</value>
   </data>
   <data name="DateHumanize_MultipleYearsAgo" xml:space="preserve">
-    <value>{0} سال پیش</value>
+    <value>hace {0} años</value>
   </data>
   <data name="TimeSpanHumanize_MultipleDays" xml:space="preserve">
-    <value>{0} روز</value>
+    <value>{0} días</value>
   </data>
   <data name="TimeSpanHumanize_MultipleHours" xml:space="preserve">
-    <value>{0} ساعت</value>
+    <value>{0} horas</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMilliseconds" xml:space="preserve">
-    <value>{0} میلی ثانیه</value>
+    <value>{0} milisegundos</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMinutes" xml:space="preserve">
-    <value>{0} دقیقه</value>
+    <value>{0} minutos</value>
   </data>
   <data name="TimeSpanHumanize_MultipleSeconds" xml:space="preserve">
-    <value>{0} ثانیه</value>
-  </data>
-  <data name="TimeSpanHumanize_SingleDay" xml:space="preserve">
-    <value>یک روز</value>
-  </data>
-  <data name="TimeSpanHumanize_SingleHour" xml:space="preserve">
-    <value>یک ساعت</value>
-  </data>
-  <data name="TimeSpanHumanize_SingleMillisecond" xml:space="preserve">
-    <value>یک میلی ثانیه</value>
-  </data>
-  <data name="TimeSpanHumanize_SingleMinute" xml:space="preserve">
-    <value>یک دقیقه</value>
-  </data>
-  <data name="TimeSpanHumanize_SingleSecond" xml:space="preserve">
-    <value>یک ثانیه</value>
-  </data>
-  <data name="TimeSpanHumanize_Zero" xml:space="preserve">
-    <value>الآن</value>
+    <value>{0} segundos</value>
   </data>
   <data name="TimeSpanHumanize_MultipleWeeks" xml:space="preserve">
-    <value>{0} هفته</value>
+    <value>{0} semanas</value>
+  </data>
+  <data name="TimeSpanHumanize_SingleDay" xml:space="preserve">
+    <value>un día</value>
+  </data>
+  <data name="TimeSpanHumanize_SingleHour" xml:space="preserve">
+    <value>una hora</value>
+  </data>
+  <data name="TimeSpanHumanize_SingleMillisecond" xml:space="preserve">
+    <value>un milisegundo</value>
+  </data>
+  <data name="TimeSpanHumanize_SingleMinute" xml:space="preserve">
+    <value>un minuto</value>
+  </data>
+  <data name="TimeSpanHumanize_SingleSecond" xml:space="preserve">
+    <value>un segundo</value>
   </data>
   <data name="TimeSpanHumanize_SingleWeek" xml:space="preserve">
-    <value>یک هفته</value>
+    <value>una semana</value>
+  </data>
+  <data name="TimeSpanHumanize_Zero" xml:space="preserve">
+    <value>0 segundos</value>
   </data>
   <data name="DateHumanize_MultipleDaysFromNow" xml:space="preserve">
-    <value>{0} روز بعد</value>
+    <value>en {0} días</value>
   </data>
   <data name="DateHumanize_MultipleHoursFromNow" xml:space="preserve">
-    <value>{0} ساعت بعد</value>
+    <value>en {0} horas</value>
   </data>
   <data name="DateHumanize_MultipleMinutesFromNow" xml:space="preserve">
-    <value>{0} دقیقه بعد</value>
+    <value>en {0} minutos</value>
   </data>
   <data name="DateHumanize_MultipleMonthsFromNow" xml:space="preserve">
-    <value>{0} ماه بعد</value>
+    <value>en {0} meses</value>
   </data>
   <data name="DateHumanize_MultipleSecondsFromNow" xml:space="preserve">
-    <value>{0} ثانیه بعد</value>
+    <value>en {0} segundos</value>
   </data>
   <data name="DateHumanize_MultipleYearsFromNow" xml:space="preserve">
-    <value>{0} سال بعد</value>
-  </data>
-  <data name="DateHumanize_Now" xml:space="preserve">
-    <value>الآن</value>
+    <value>en {0} años</value>
   </data>
   <data name="DateHumanize_SingleDayFromNow" xml:space="preserve">
-    <value>فردا</value>
+    <value>mañana</value>
   </data>
   <data name="DateHumanize_SingleHourFromNow" xml:space="preserve">
-    <value>یک ساعت بعد</value>
+    <value>en una hora</value>
   </data>
   <data name="DateHumanize_SingleMinuteFromNow" xml:space="preserve">
-    <value>یک دقیقه بعد</value>
+    <value>en un minuto</value>
   </data>
   <data name="DateHumanize_SingleMonthFromNow" xml:space="preserve">
-    <value>یک ماه بعد</value>
+    <value>en un mes</value>
   </data>
   <data name="DateHumanize_SingleSecondFromNow" xml:space="preserve">
-    <value>یک ثانیه بعد</value>
+    <value>en un segundo</value>
   </data>
   <data name="DateHumanize_SingleYearFromNow" xml:space="preserve">
-    <value>یک سال بعد</value>
+    <value>en un año</value>
+  </data>
+  <data name="DateHumanize_Now" xml:space="preserve">
+    <value>ahora</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMonths" xml:space="preserve">
-    <value>{0} ماه</value>
+    <value>{0} meses</value>
   </data>
   <data name="TimeSpanHumanize_MultipleYears" xml:space="preserve">
-    <value>{0} سال</value>
+    <value>{0} años</value>
   </data>
   <data name="TimeSpanHumanize_SingleMonth" xml:space="preserve">
-    <value>یک ماه</value>
+    <value>un mes</value>
   </data>
   <data name="TimeSpanHumanize_SingleYear" xml:space="preserve">
-    <value>یک سال</value>
+    <value>un año</value>
   </data>
 </root>
