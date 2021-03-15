@@ -118,129 +118,167 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DateHumanize_SingleSecondAgo" xml:space="preserve">
-    <value>1 秒前</value>
+    <value>sedetik yang lalu</value>
+    <comment>one second ago</comment>
   </data>
   <data name="DateHumanize_MultipleSecondsAgo" xml:space="preserve">
-    <value>{0} 秒前</value>
+    <value>{0} detik yang lalu</value>
+    <comment>{0} seconds ago</comment>
   </data>
   <data name="DateHumanize_SingleMinuteAgo" xml:space="preserve">
-    <value>1 分前</value>
+    <value>semenit yang lalu</value>
+    <comment>a minute ago</comment>
   </data>
   <data name="DateHumanize_MultipleMinutesAgo" xml:space="preserve">
-    <value>{0} 分前</value>
+    <value>{0} menit yang lalu</value>
+    <comment>{0} minutes ago</comment>
   </data>
   <data name="DateHumanize_SingleHourAgo" xml:space="preserve">
-    <value>1 時間前</value>
+    <value>sejam yang lalu</value>
+    <comment>an hour ago</comment>
   </data>
   <data name="DateHumanize_MultipleHoursAgo" xml:space="preserve">
-    <value>{0} 時間前</value>
+    <value>{0} jam yang lalu</value>
+    <comment>{0} hours ago</comment>
   </data>
   <data name="DateHumanize_SingleDayAgo" xml:space="preserve">
-    <value>昨日</value>
+    <value>kemarin</value>
+    <comment>yesterday</comment>
   </data>
   <data name="DateHumanize_MultipleDaysAgo" xml:space="preserve">
-    <value>{0} 日前</value>
+    <value>{0} hari yang lalu</value>
+    <comment>{0} days ago</comment>
   </data>
   <data name="DateHumanize_SingleMonthAgo" xml:space="preserve">
-    <value>先月</value>
+    <value>sebulan yang lalu</value>
+    <comment>one month ago</comment>
   </data>
   <data name="DateHumanize_MultipleMonthsAgo" xml:space="preserve">
-    <value>{0} か月前</value>
+    <value>{0} bulan yang lalu</value>
+    <comment>{0} months ago</comment>
   </data>
   <data name="DateHumanize_SingleYearAgo" xml:space="preserve">
-    <value>去年</value>
+    <value>setahun yang lalu</value>
+    <comment>one year ago</comment>
   </data>
   <data name="DateHumanize_MultipleYearsAgo" xml:space="preserve">
-    <value>{0} 年前</value>
+    <value>{0} tahun yang lalu</value>
+    <comment>{0} years ago</comment>
   </data>
   <data name="TimeSpanHumanize_MultipleDays" xml:space="preserve">
-    <value>{0} 日</value>
+    <value>{0} hari</value>
+    <comment>{0} days</comment>
   </data>
   <data name="TimeSpanHumanize_MultipleHours" xml:space="preserve">
-    <value>{0} 時間</value>
+    <value>{0} jam</value>
+    <comment>{0} hours</comment>
   </data>
   <data name="TimeSpanHumanize_MultipleMilliseconds" xml:space="preserve">
-    <value>{0} ミリ秒</value>
+    <value>{0} milidetik</value>
+    <comment>{0} milliseconds</comment>
   </data>
   <data name="TimeSpanHumanize_MultipleMinutes" xml:space="preserve">
-    <value>{0} 分</value>
+    <value>{0} menit</value>
+    <comment>{0} minutes</comment>
   </data>
   <data name="TimeSpanHumanize_MultipleSeconds" xml:space="preserve">
-    <value>{0} 秒</value>
+    <value>{0} detik</value>
+    <comment>{0} seconds</comment>
   </data>
   <data name="TimeSpanHumanize_SingleDay" xml:space="preserve">
-    <value>1 日</value>
+    <value>1 hari</value>
+    <comment>1 day</comment>
   </data>
   <data name="TimeSpanHumanize_SingleHour" xml:space="preserve">
-    <value>1 時間</value>
+    <value>1 jam</value>
+    <comment>1 hour</comment>
   </data>
   <data name="TimeSpanHumanize_SingleMillisecond" xml:space="preserve">
-    <value>1 ミリ秒</value>
+    <value>1 milidetik</value>
+    <comment>1 millisecond</comment>
   </data>
   <data name="TimeSpanHumanize_SingleMinute" xml:space="preserve">
-    <value>1 分</value>
+    <value>1 menit</value>
+    <comment>1 minute</comment>
   </data>
   <data name="TimeSpanHumanize_SingleSecond" xml:space="preserve">
-    <value>1 秒</value>
+    <value>1 detik</value>
+    <comment>1 second</comment>
   </data>
   <data name="TimeSpanHumanize_Zero" xml:space="preserve">
-    <value>0 秒</value>
+    <value>waktu kosong</value>
+    <comment>no time</comment>
   </data>
   <data name="TimeSpanHumanize_MultipleWeeks" xml:space="preserve">
-    <value>{0} 週間</value>
+    <value>{0} minggu</value>
+    <comment>{0} weeks</comment>
   </data>
   <data name="TimeSpanHumanize_SingleWeek" xml:space="preserve">
-    <value>1 週間</value>
+    <value>1 minggu</value>
+    <comment>1 week</comment>
   </data>
   <data name="DateHumanize_MultipleDaysFromNow" xml:space="preserve">
-    <value>{0} 日後</value>
+    <value>{0} hari dari sekarang</value>
+    <comment>{0} days from now</comment>
   </data>
   <data name="DateHumanize_MultipleHoursFromNow" xml:space="preserve">
-    <value>{0} 時間後</value>
+    <value>{0} jam dari sekarang</value>
+    <comment>{0} hours from now</comment>
   </data>
   <data name="DateHumanize_MultipleMinutesFromNow" xml:space="preserve">
-    <value>{0} 分後</value>
+    <value>{0} menit dari sekarang</value>
+    <comment>{0} minutes from now</comment>
   </data>
   <data name="DateHumanize_MultipleMonthsFromNow" xml:space="preserve">
-    <value>{0} か月後</value>
+    <value>{0} bulan dari sekarang</value>
+    <comment>{0} months from now</comment>
   </data>
   <data name="DateHumanize_MultipleSecondsFromNow" xml:space="preserve">
-    <value>{0} 秒後</value>
+    <value>{0} detik dari sekarang</value>
+    <comment>{0} seconds from now</comment>
   </data>
   <data name="DateHumanize_MultipleYearsFromNow" xml:space="preserve">
-    <value>{0} 年後</value>
+    <value>{0} tahun dari sekarang</value>
+    <comment>{0} years from now</comment>
   </data>
   <data name="DateHumanize_Now" xml:space="preserve">
-    <value>今</value>
+    <value>sekarang</value>
+    <comment>now</comment>
   </data>
   <data name="DateHumanize_SingleDayFromNow" xml:space="preserve">
-    <value>明日</value>
+    <value>besok</value>
+    <comment>tomorrow</comment>
   </data>
   <data name="DateHumanize_SingleHourFromNow" xml:space="preserve">
-    <value>1 時間後</value>
+    <value>sejam dari sekarang</value>
+    <comment>an hour from now</comment>
   </data>
   <data name="DateHumanize_SingleMinuteFromNow" xml:space="preserve">
-    <value>1 分後</value>
+    <value>semenit dari sekarang</value>
+    <comment>a minute from now</comment>
   </data>
   <data name="DateHumanize_SingleMonthFromNow" xml:space="preserve">
-    <value>来月</value>
+    <value>sebulan dari sekarang</value>
+    <comment>one month from now</comment>
   </data>
   <data name="DateHumanize_SingleSecondFromNow" xml:space="preserve">
-    <value>1 秒後</value>
+    <value>sedetik dari sekarang</value>
+    <comment>one second from now</comment>
   </data>
   <data name="DateHumanize_SingleYearFromNow" xml:space="preserve">
-    <value>来年</value>
+    <value>setahun dari sekarang</value>
+    <comment>one year from now</comment>
   </data>
   <data name="TimeSpanHumanize_MultipleMonths" xml:space="preserve">
-    <value>{0} ヶ月</value>
+    <value>{0} bulan</value>
   </data>
   <data name="TimeSpanHumanize_MultipleYears" xml:space="preserve">
-    <value>{0} 年</value>
+    <value>{0} tahun</value>
   </data>
   <data name="TimeSpanHumanize_SingleMonth" xml:space="preserve">
-    <value>1 ヶ月</value>
+    <value>1 bulan</value>
   </data>
   <data name="TimeSpanHumanize_SingleYear" xml:space="preserve">
-    <value>1 年間の</value>
+    <value>1 tahun</value>
   </data>
 </root>
