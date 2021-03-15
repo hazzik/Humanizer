@@ -118,118 +118,118 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DateHumanize_SingleSecondAgo" xml:space="preserve">
-    <value>1 秒前</value>
+    <value>one second ago</value>
   </data>
   <data name="DateHumanize_MultipleSecondsAgo" xml:space="preserve">
-    <value>{0} 秒前</value>
+    <value>{0} seconds ago</value>
   </data>
   <data name="DateHumanize_SingleMinuteAgo" xml:space="preserve">
-    <value>1 分前</value>
+    <value>a minute ago</value>
   </data>
   <data name="DateHumanize_MultipleMinutesAgo" xml:space="preserve">
-    <value>{0} 分前</value>
+    <value>{0} minutes ago</value>
   </data>
   <data name="DateHumanize_SingleHourAgo" xml:space="preserve">
-    <value>1 時間前</value>
+    <value>an hour ago</value>
   </data>
   <data name="DateHumanize_MultipleHoursAgo" xml:space="preserve">
-    <value>{0} 時間前</value>
+    <value>{0} hours ago</value>
   </data>
   <data name="DateHumanize_SingleDayAgo" xml:space="preserve">
-    <value>昨日</value>
+    <value>yesterday</value>
   </data>
   <data name="DateHumanize_MultipleDaysAgo" xml:space="preserve">
-    <value>{0} 日前</value>
+    <value>{0} days ago</value>
   </data>
   <data name="DateHumanize_SingleMonthAgo" xml:space="preserve">
-    <value>先月</value>
+    <value>one month ago</value>
   </data>
   <data name="DateHumanize_MultipleMonthsAgo" xml:space="preserve">
-    <value>{0} か月前</value>
+    <value>{0} months ago</value>
   </data>
   <data name="DateHumanize_SingleYearAgo" xml:space="preserve">
-    <value>去年</value>
+    <value>one year ago</value>
   </data>
   <data name="DateHumanize_MultipleYearsAgo" xml:space="preserve">
-    <value>{0} 年前</value>
+    <value>{0} years ago</value>
   </data>
   <data name="TimeSpanHumanize_MultipleDays" xml:space="preserve">
-    <value>{0} 日</value>
+    <value>{0} days</value>
   </data>
   <data name="TimeSpanHumanize_MultipleHours" xml:space="preserve">
-    <value>{0} 時間</value>
+    <value>{0} hours</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMilliseconds" xml:space="preserve">
-    <value>{0} ミリ秒</value>
+    <value>{0} milliseconds</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMinutes" xml:space="preserve">
-    <value>{0} 分</value>
+    <value>{0} minutes</value>
   </data>
   <data name="TimeSpanHumanize_MultipleSeconds" xml:space="preserve">
-    <value>{0} 秒</value>
+    <value>{0} seconds</value>
   </data>
   <data name="TimeSpanHumanize_SingleDay" xml:space="preserve">
-    <value>1 日</value>
+    <value>1 day</value>
   </data>
   <data name="TimeSpanHumanize_SingleHour" xml:space="preserve">
-    <value>1 時間</value>
+    <value>1 hour</value>
   </data>
   <data name="TimeSpanHumanize_SingleMillisecond" xml:space="preserve">
-    <value>1 ミリ秒</value>
+    <value>1 millisecond</value>
   </data>
   <data name="TimeSpanHumanize_SingleMinute" xml:space="preserve">
-    <value>1 分</value>
+    <value>1 minute</value>
   </data>
   <data name="TimeSpanHumanize_SingleSecond" xml:space="preserve">
-    <value>1 秒</value>
+    <value>1 second</value>
   </data>
   <data name="TimeSpanHumanize_Zero" xml:space="preserve">
-    <value>0 秒</value>
+    <value>no time</value>
   </data>
   <data name="TimeSpanHumanize_MultipleWeeks" xml:space="preserve">
-    <value>{0} 週間</value>
+    <value>{0} weeks</value>
   </data>
   <data name="TimeSpanHumanize_SingleWeek" xml:space="preserve">
-    <value>1 週間</value>
+    <value>1 week</value>
   </data>
   <data name="DateHumanize_MultipleDaysFromNow" xml:space="preserve">
-    <value>{0} 日後</value>
+    <value>{0} days from now</value>
   </data>
   <data name="DateHumanize_MultipleHoursFromNow" xml:space="preserve">
-    <value>{0} 時間後</value>
+    <value>{0} hours from now</value>
   </data>
   <data name="DateHumanize_MultipleMinutesFromNow" xml:space="preserve">
-    <value>{0} 分後</value>
+    <value>{0} minutes from now</value>
   </data>
   <data name="DateHumanize_MultipleMonthsFromNow" xml:space="preserve">
-    <value>{0} か月後</value>
+    <value>{0} months from now</value>
   </data>
   <data name="DateHumanize_MultipleSecondsFromNow" xml:space="preserve">
-    <value>{0} 秒後</value>
+    <value>{0} seconds from now</value>
   </data>
   <data name="DateHumanize_MultipleYearsFromNow" xml:space="preserve">
-    <value>{0} 年後</value>
+    <value>{0} years from now</value>
   </data>
   <data name="DateHumanize_Now" xml:space="preserve">
-    <value>今</value>
+    <value>now</value>
   </data>
   <data name="DateHumanize_SingleDayFromNow" xml:space="preserve">
-    <value>明日</value>
+    <value>tomorrow</value>
   </data>
   <data name="DateHumanize_SingleHourFromNow" xml:space="preserve">
-    <value>1 時間後</value>
+    <value>an hour from now</value>
   </data>
   <data name="DateHumanize_SingleMinuteFromNow" xml:space="preserve">
-    <value>1 分後</value>
+    <value>a minute from now</value>
   </data>
   <data name="DateHumanize_SingleMonthFromNow" xml:space="preserve">
-    <value>来月</value>
+    <value>one month from now</value>
   </data>
   <data name="DateHumanize_SingleSecondFromNow" xml:space="preserve">
-    <value>1 秒後</value>
+    <value>one second from now</value>
   </data>
   <data name="DateHumanize_SingleYearFromNow" xml:space="preserve">
-    <value>来年</value>
+    <value>one year from now</value>
   </data>
   <data name="DateHumanize_MultipleHoursFromNow_Dual" xml:space="preserve">
     <value>{0} hours from now</value>
@@ -463,16 +463,16 @@
     <value>{0} weeks</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMonths" xml:space="preserve">
-    <value>{0} ヶ月</value>
+    <value>{0} months</value>
   </data>
   <data name="TimeSpanHumanize_MultipleYears" xml:space="preserve">
-    <value>{0} 年</value>
+    <value>{0} years</value>
   </data>
   <data name="TimeSpanHumanize_SingleMonth" xml:space="preserve">
-    <value>1 ヶ月</value>
+    <value>1 month</value>
   </data>
   <data name="TimeSpanHumanize_SingleYear" xml:space="preserve">
-    <value>1 年間の</value>
+    <value>1 year</value>
   </data>
   <data name="DateHumanize_MultipleHoursAgo_DualTrialQuadral" xml:space="preserve">
     <value>{0} hours ago</value>
