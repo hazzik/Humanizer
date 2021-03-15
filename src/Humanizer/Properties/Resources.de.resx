@@ -118,167 +118,129 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DateHumanize_SingleSecondAgo" xml:space="preserve">
-    <value>sedetik yang lalu</value>
-    <comment>one second ago</comment>
+    <value>egy másodperce</value>
   </data>
   <data name="DateHumanize_MultipleSecondsAgo" xml:space="preserve">
-    <value>{0} detik yang lalu</value>
-    <comment>{0} seconds ago</comment>
+    <value>{0} másodperce</value>
   </data>
   <data name="DateHumanize_SingleMinuteAgo" xml:space="preserve">
-    <value>semenit yang lalu</value>
-    <comment>a minute ago</comment>
+    <value>egy perce</value>
   </data>
   <data name="DateHumanize_MultipleMinutesAgo" xml:space="preserve">
-    <value>{0} menit yang lalu</value>
-    <comment>{0} minutes ago</comment>
+    <value>{0} perce</value>
   </data>
   <data name="DateHumanize_SingleHourAgo" xml:space="preserve">
-    <value>sejam yang lalu</value>
-    <comment>an hour ago</comment>
+    <value>egy órája</value>
   </data>
   <data name="DateHumanize_MultipleHoursAgo" xml:space="preserve">
-    <value>{0} jam yang lalu</value>
-    <comment>{0} hours ago</comment>
+    <value>{0} órája</value>
   </data>
   <data name="DateHumanize_SingleDayAgo" xml:space="preserve">
-    <value>kemarin</value>
-    <comment>yesterday</comment>
+    <value>tegnap</value>
   </data>
   <data name="DateHumanize_MultipleDaysAgo" xml:space="preserve">
-    <value>{0} hari yang lalu</value>
-    <comment>{0} days ago</comment>
+    <value>{0} napja</value>
   </data>
   <data name="DateHumanize_SingleMonthAgo" xml:space="preserve">
-    <value>sebulan yang lalu</value>
-    <comment>one month ago</comment>
+    <value>egy hónapja</value>
   </data>
   <data name="DateHumanize_MultipleMonthsAgo" xml:space="preserve">
-    <value>{0} bulan yang lalu</value>
-    <comment>{0} months ago</comment>
+    <value>{0} hónapja</value>
   </data>
   <data name="DateHumanize_SingleYearAgo" xml:space="preserve">
-    <value>setahun yang lalu</value>
-    <comment>one year ago</comment>
+    <value>egy éve</value>
   </data>
   <data name="DateHumanize_MultipleYearsAgo" xml:space="preserve">
-    <value>{0} tahun yang lalu</value>
-    <comment>{0} years ago</comment>
+    <value>{0} éve</value>
   </data>
   <data name="TimeSpanHumanize_MultipleDays" xml:space="preserve">
-    <value>{0} hari</value>
-    <comment>{0} days</comment>
+    <value>{0} nap</value>
   </data>
   <data name="TimeSpanHumanize_MultipleHours" xml:space="preserve">
-    <value>{0} jam</value>
-    <comment>{0} hours</comment>
+    <value>{0} óra</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMilliseconds" xml:space="preserve">
-    <value>{0} milidetik</value>
-    <comment>{0} milliseconds</comment>
+    <value>{0} ezredmásodperc</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMinutes" xml:space="preserve">
-    <value>{0} menit</value>
-    <comment>{0} minutes</comment>
+    <value>{0} perc</value>
   </data>
   <data name="TimeSpanHumanize_MultipleSeconds" xml:space="preserve">
-    <value>{0} detik</value>
-    <comment>{0} seconds</comment>
+    <value>{0} másodperc</value>
   </data>
   <data name="TimeSpanHumanize_SingleDay" xml:space="preserve">
-    <value>1 hari</value>
-    <comment>1 day</comment>
+    <value>1 nap</value>
   </data>
   <data name="TimeSpanHumanize_SingleHour" xml:space="preserve">
-    <value>1 jam</value>
-    <comment>1 hour</comment>
+    <value>1 óra</value>
   </data>
   <data name="TimeSpanHumanize_SingleMillisecond" xml:space="preserve">
-    <value>1 milidetik</value>
-    <comment>1 millisecond</comment>
+    <value>1 ezredmásodperc</value>
   </data>
   <data name="TimeSpanHumanize_SingleMinute" xml:space="preserve">
-    <value>1 menit</value>
-    <comment>1 minute</comment>
+    <value>1 perc</value>
   </data>
   <data name="TimeSpanHumanize_SingleSecond" xml:space="preserve">
-    <value>1 detik</value>
-    <comment>1 second</comment>
+    <value>1 másodperc</value>
   </data>
   <data name="TimeSpanHumanize_Zero" xml:space="preserve">
-    <value>waktu kosong</value>
-    <comment>no time</comment>
+    <value>nincs idő</value>
   </data>
   <data name="TimeSpanHumanize_MultipleWeeks" xml:space="preserve">
-    <value>{0} minggu</value>
-    <comment>{0} weeks</comment>
+    <value>{0} hét</value>
   </data>
   <data name="TimeSpanHumanize_SingleWeek" xml:space="preserve">
-    <value>1 minggu</value>
-    <comment>1 week</comment>
+    <value>1 hét</value>
   </data>
   <data name="DateHumanize_MultipleDaysFromNow" xml:space="preserve">
-    <value>{0} hari dari sekarang</value>
-    <comment>{0} days from now</comment>
+    <value>{0} nap múlva</value>
   </data>
   <data name="DateHumanize_MultipleHoursFromNow" xml:space="preserve">
-    <value>{0} jam dari sekarang</value>
-    <comment>{0} hours from now</comment>
+    <value>{0} óra múlva</value>
   </data>
   <data name="DateHumanize_MultipleMinutesFromNow" xml:space="preserve">
-    <value>{0} menit dari sekarang</value>
-    <comment>{0} minutes from now</comment>
+    <value>{0} perc múlva</value>
   </data>
   <data name="DateHumanize_MultipleMonthsFromNow" xml:space="preserve">
-    <value>{0} bulan dari sekarang</value>
-    <comment>{0} months from now</comment>
+    <value>{0} hónap múlva</value>
   </data>
   <data name="DateHumanize_MultipleSecondsFromNow" xml:space="preserve">
-    <value>{0} detik dari sekarang</value>
-    <comment>{0} seconds from now</comment>
+    <value>{0} másodperc múlva</value>
   </data>
   <data name="DateHumanize_MultipleYearsFromNow" xml:space="preserve">
-    <value>{0} tahun dari sekarang</value>
-    <comment>{0} years from now</comment>
+    <value>{0} év múlva</value>
   </data>
   <data name="DateHumanize_Now" xml:space="preserve">
-    <value>sekarang</value>
-    <comment>now</comment>
+    <value>most</value>
   </data>
   <data name="DateHumanize_SingleDayFromNow" xml:space="preserve">
-    <value>besok</value>
-    <comment>tomorrow</comment>
+    <value>holnap</value>
   </data>
   <data name="DateHumanize_SingleHourFromNow" xml:space="preserve">
-    <value>sejam dari sekarang</value>
-    <comment>an hour from now</comment>
+    <value>egy óra múlva</value>
   </data>
   <data name="DateHumanize_SingleMinuteFromNow" xml:space="preserve">
-    <value>semenit dari sekarang</value>
-    <comment>a minute from now</comment>
+    <value>egy perc múlva</value>
   </data>
   <data name="DateHumanize_SingleMonthFromNow" xml:space="preserve">
-    <value>sebulan dari sekarang</value>
-    <comment>one month from now</comment>
+    <value>egy hónap múlva</value>
   </data>
   <data name="DateHumanize_SingleSecondFromNow" xml:space="preserve">
-    <value>sedetik dari sekarang</value>
-    <comment>one second from now</comment>
+    <value>egy másodperc múlva</value>
   </data>
   <data name="DateHumanize_SingleYearFromNow" xml:space="preserve">
-    <value>setahun dari sekarang</value>
-    <comment>one year from now</comment>
+    <value>egy év múlva</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMonths" xml:space="preserve">
-    <value>{0} bulan</value>
+    <value>{0} hónap</value>
   </data>
   <data name="TimeSpanHumanize_MultipleYears" xml:space="preserve">
-    <value>{0} tahun</value>
+    <value>{0} év</value>
   </data>
   <data name="TimeSpanHumanize_SingleMonth" xml:space="preserve">
-    <value>1 bulan</value>
+    <value>egy hónap</value>
   </data>
   <data name="TimeSpanHumanize_SingleYear" xml:space="preserve">
-    <value>1 tahun</value>
+    <value>egy év</value>
   </data>
 </root>
