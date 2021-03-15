@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,129 +118,129 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DateHumanize_SingleSecondAgo" xml:space="preserve">
-    <value>এক সেকেন্ড আগে</value>
+    <value>преди секунда</value>
   </data>
   <data name="DateHumanize_MultipleSecondsAgo" xml:space="preserve">
-    <value>{0} সেকেন্ড আগে</value>
+    <value>преди {0} секунди</value>
   </data>
   <data name="DateHumanize_SingleMinuteAgo" xml:space="preserve">
-    <value>এক মিনিট আগে</value>
+    <value>преди минута</value>
   </data>
   <data name="DateHumanize_MultipleMinutesAgo" xml:space="preserve">
-    <value>{0} মিনিট আগে</value>
+    <value>преди {0} минути</value>
   </data>
   <data name="DateHumanize_SingleHourAgo" xml:space="preserve">
-    <value>এক ঘণ্টা আগে</value>
+    <value>преди час</value>
   </data>
   <data name="DateHumanize_MultipleHoursAgo" xml:space="preserve">
-    <value>{0} ঘণ্টা আগে</value>
+    <value>преди {0} часа</value>
   </data>
   <data name="DateHumanize_SingleDayAgo" xml:space="preserve">
-    <value>গতকাল</value>
+    <value>вчера</value>
   </data>
   <data name="DateHumanize_MultipleDaysAgo" xml:space="preserve">
-    <value>{0} দিন আগে</value>
+    <value>преди {0} дена</value>
   </data>
   <data name="DateHumanize_SingleMonthAgo" xml:space="preserve">
-    <value>এক মাস আগে</value>
+    <value>преди месец</value>
   </data>
   <data name="DateHumanize_MultipleMonthsAgo" xml:space="preserve">
-    <value>{0} মাস আগে</value>
+    <value>преди {0} месеца</value>
   </data>
   <data name="DateHumanize_SingleYearAgo" xml:space="preserve">
-    <value>এক বছর আগে</value>
+    <value>преди година</value>
   </data>
   <data name="DateHumanize_MultipleYearsAgo" xml:space="preserve">
-    <value>{0} বছর আগে</value>
+    <value>преди {0} години</value>
   </data>
   <data name="TimeSpanHumanize_MultipleDays" xml:space="preserve">
-    <value>{0} দিন</value>
+    <value>{0} дена</value>
   </data>
   <data name="TimeSpanHumanize_MultipleHours" xml:space="preserve">
-    <value>{0} ঘণ্টা</value>
+    <value>{0} часа</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMilliseconds" xml:space="preserve">
-    <value>{0} মিলিসেকেন্ড</value>
+    <value>{0} милисекунди</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMinutes" xml:space="preserve">
-    <value>{0} মিনিট</value>
+    <value>{0} минути</value>
   </data>
   <data name="TimeSpanHumanize_MultipleSeconds" xml:space="preserve">
-    <value>{0} সেকেন্ড</value>
+    <value>{0} секунди</value>
   </data>
   <data name="TimeSpanHumanize_SingleDay" xml:space="preserve">
-    <value>এক দিন</value>
+    <value>един ден</value>
   </data>
   <data name="TimeSpanHumanize_SingleHour" xml:space="preserve">
-    <value>এক ঘণ্টা</value>
+    <value>един час</value>
   </data>
   <data name="TimeSpanHumanize_SingleMillisecond" xml:space="preserve">
-    <value>এক মিলিসেকেন্ড</value>
+    <value>една милисекунда</value>
   </data>
   <data name="TimeSpanHumanize_SingleMinute" xml:space="preserve">
-    <value>এক মিনিট</value>
+    <value>една минута</value>
   </data>
   <data name="TimeSpanHumanize_SingleSecond" xml:space="preserve">
-    <value>এক সেকেন্ড</value>
+    <value>една секунда</value>
   </data>
   <data name="TimeSpanHumanize_Zero" xml:space="preserve">
-    <value>শূন্য সময়</value>
+    <value>няма време</value>
   </data>
   <data name="TimeSpanHumanize_MultipleWeeks" xml:space="preserve">
-    <value>{0} সপ্তাহ</value>
+    <value>{0} седмици</value>
   </data>
   <data name="TimeSpanHumanize_SingleWeek" xml:space="preserve">
-    <value>এক সপ্তাহ</value>
+    <value>една седмица</value>
   </data>
   <data name="DateHumanize_MultipleDaysFromNow" xml:space="preserve">
-    <value>{0} দিন পর</value>
+    <value>след {0} дена</value>
   </data>
   <data name="DateHumanize_MultipleHoursFromNow" xml:space="preserve">
-    <value>{0} ঘণ্টা পর</value>
+    <value>след {0} часа</value>
   </data>
   <data name="DateHumanize_MultipleMinutesFromNow" xml:space="preserve">
-    <value>{0} মিনিট পর</value>
+    <value>след {0} минути</value>
   </data>
   <data name="DateHumanize_MultipleMonthsFromNow" xml:space="preserve">
-    <value>{0} মাস পর</value>
+    <value>след {0} месеца</value>
   </data>
   <data name="DateHumanize_MultipleSecondsFromNow" xml:space="preserve">
-    <value>{0} সেকেন্ড পর</value>
+    <value>след {0} секунди</value>
   </data>
   <data name="DateHumanize_MultipleYearsFromNow" xml:space="preserve">
-    <value>{0} বছর পর</value>
+    <value>след {0} години</value>
   </data>
   <data name="DateHumanize_Now" xml:space="preserve">
-    <value>এখন</value>
+    <value>сега</value>
   </data>
   <data name="DateHumanize_SingleDayFromNow" xml:space="preserve">
-    <value>আগামিকাল</value>
+    <value>утре</value>
   </data>
   <data name="DateHumanize_SingleHourFromNow" xml:space="preserve">
-    <value>এক ঘণ্টা পর</value>
+    <value>след час</value>
   </data>
   <data name="DateHumanize_SingleMinuteFromNow" xml:space="preserve">
-    <value>এক মিনিট পর</value>
+    <value>след минута</value>
   </data>
   <data name="DateHumanize_SingleMonthFromNow" xml:space="preserve">
-    <value>এক মাস পর</value>
+    <value>след месец</value>
   </data>
   <data name="DateHumanize_SingleSecondFromNow" xml:space="preserve">
-    <value>এক সেকেন্ড পর</value>
+    <value>след секунда</value>
   </data>
   <data name="DateHumanize_SingleYearFromNow" xml:space="preserve">
-    <value>এক বছর পর</value>
+    <value>след година</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMonths" xml:space="preserve">
-    <value>{0} মাস</value>
+    <value>{0} месеца</value>
   </data>
   <data name="TimeSpanHumanize_MultipleYears" xml:space="preserve">
-    <value>{0} বছর</value>
+    <value>{0} години</value>
   </data>
   <data name="TimeSpanHumanize_SingleMonth" xml:space="preserve">
-    <value>এক মাসের</value>
+    <value>един месец</value>
   </data>
   <data name="TimeSpanHumanize_SingleYear" xml:space="preserve">
-    <value>এক বছর</value>
+    <value>една година</value>
   </data>
 </root>
