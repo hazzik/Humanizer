@@ -118,323 +118,129 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DateHumanize_SingleSecondAgo" xml:space="preserve">
-    <value>לפני שנייה</value>
-    <comment>one second ago</comment>
+    <value>egy másodperce</value>
   </data>
   <data name="DateHumanize_MultipleSecondsAgo" xml:space="preserve">
-    <value>לפני {0} שניות</value>
-    <comment>{0} seconds ago</comment>
+    <value>{0} másodperce</value>
   </data>
   <data name="DateHumanize_SingleMinuteAgo" xml:space="preserve">
-    <value>לפני דקה</value>
-    <comment>a minute ago</comment>
+    <value>egy perce</value>
   </data>
   <data name="DateHumanize_MultipleMinutesAgo" xml:space="preserve">
-    <value>לפני {0} דקות</value>
-    <comment>{0} minutes ago</comment>
+    <value>{0} perce</value>
   </data>
   <data name="DateHumanize_SingleHourAgo" xml:space="preserve">
-    <value>לפני שעה</value>
-    <comment>an hour ago</comment>
+    <value>egy órája</value>
   </data>
   <data name="DateHumanize_MultipleHoursAgo" xml:space="preserve">
-    <value>לפני {0} שעות</value>
-    <comment>{0} hours ago</comment>
+    <value>{0} órája</value>
   </data>
   <data name="DateHumanize_SingleDayAgo" xml:space="preserve">
-    <value>אתמול</value>
-    <comment>yesterday</comment>
+    <value>tegnap</value>
   </data>
   <data name="DateHumanize_MultipleDaysAgo" xml:space="preserve">
-    <value>לפני {0} יום</value>
-    <comment>{0} days ago</comment>
+    <value>{0} napja</value>
   </data>
   <data name="DateHumanize_SingleMonthAgo" xml:space="preserve">
-    <value>לפני חודש</value>
-    <comment>one month ago</comment>
+    <value>egy hónapja</value>
   </data>
   <data name="DateHumanize_MultipleMonthsAgo" xml:space="preserve">
-    <value>לפני {0} חודשים</value>
-    <comment>{0} months ago</comment>
+    <value>{0} hónapja</value>
   </data>
   <data name="DateHumanize_SingleYearAgo" xml:space="preserve">
-    <value>לפני שנה</value>
-    <comment>one year ago</comment>
+    <value>egy éve</value>
   </data>
   <data name="DateHumanize_MultipleYearsAgo" xml:space="preserve">
-    <value>לפני {0} שנה</value>
-    <comment>{0} years ago</comment>
-  </data>
-  <data name="TimeSpanHumanize_SingleDay" xml:space="preserve">
-    <value>יום</value>
-    <comment>single day</comment>
-  </data>
-  <data name="TimeSpanHumanize_SingleHour" xml:space="preserve">
-    <value>שעה</value>
-    <comment>single hour</comment>
-  </data>
-  <data name="TimeSpanHumanize_SingleMillisecond" xml:space="preserve">
-    <value>אלפית שנייה</value>
-    <comment>single millisecond</comment>
-  </data>
-  <data name="TimeSpanHumanize_SingleMinute" xml:space="preserve">
-    <value>דקה</value>
-    <comment>single minute</comment>
-  </data>
-  <data name="TimeSpanHumanize_SingleSecond" xml:space="preserve">
-    <value>שנייה</value>
-    <comment>single second</comment>
-  </data>
-  <data name="TimeSpanHumanize_SingleWeek" xml:space="preserve">
-    <value>שבוע</value>
-    <comment>single week</comment>
-  </data>
-  <data name="TimeSpanHumanize_Zero" xml:space="preserve">
-    <value>אין זמן</value>
-    <comment>no time</comment>
-  </data>
-  <data name="DateHumanize_MultipleDaysAgo_Dual" xml:space="preserve">
-    <value>לפני יומיים</value>
-    <comment>two days ago</comment>
-  </data>
-  <data name="DateHumanize_MultipleHoursAgo_Dual" xml:space="preserve">
-    <value>לפני שעתיים</value>
-    <comment>two hours ago</comment>
-  </data>
-  <data name="DateHumanize_MultipleMinutesAgo_Dual" xml:space="preserve">
-    <value>לפני {0} דקות</value>
-    <comment>two minutes ago</comment>
-  </data>
-  <data name="DateHumanize_MultipleMonthsAgo_Dual" xml:space="preserve">
-    <value>לפני חודשיים</value>
-    <comment>two months ago</comment>
-  </data>
-  <data name="DateHumanize_MultipleSecondsAgo_Dual" xml:space="preserve">
-    <value>לפני {0} שניות</value>
-    <comment>two  seconds ago</comment>
-  </data>
-  <data name="DateHumanize_MultipleYearsAgo_Dual" xml:space="preserve">
-    <value>לפני שנתיים</value>
-    <comment>two years ago</comment>
-  </data>
-  <data name="TimeSpanHumanize_MultipleWeeks_Dual" xml:space="preserve">
-    <value>שבועיים</value>
-    <comment>two weeks</comment>
-  </data>
-  <data name="TimeSpanHumanize_MultipleDays_Dual" xml:space="preserve">
-    <value>יומיים</value>
-    <comment>two days</comment>
-  </data>
-  <data name="TimeSpanHumanize_MultipleHours_Dual" xml:space="preserve">
-    <value>שעתיים</value>
-    <comment>two hours</comment>
-  </data>
-  <data name="TimeSpanHumanize_MultipleMilliseconds_Dual" xml:space="preserve">
-    <value>שתי אלפיות שנייה</value>
-    <comment>two milliseconds</comment>
-  </data>
-  <data name="TimeSpanHumanize_MultipleMinutes_Dual" xml:space="preserve">
-    <value>שתי דקות</value>
-    <comment>two minutes</comment>
-  </data>
-  <data name="TimeSpanHumanize_MultipleSeconds_Dual" xml:space="preserve">
-    <value>שתי שניות</value>
-    <comment>two seconds</comment>
+    <value>{0} éve</value>
   </data>
   <data name="TimeSpanHumanize_MultipleDays" xml:space="preserve">
-    <value>{0} ימים</value>
-    <comment>{0} days</comment>
-  </data>
-  <data name="TimeSpanHumanize_MultipleDays_Plural" xml:space="preserve">
-    <value>{0} ימים</value>
-    <comment>{0} days</comment>
+    <value>{0} nap</value>
   </data>
   <data name="TimeSpanHumanize_MultipleHours" xml:space="preserve">
-    <value>{0} שעות</value>
-    <comment>{0} hours</comment>
-  </data>
-  <data name="TimeSpanHumanize_MultipleHours_Plural" xml:space="preserve">
-    <value>{0} שעות</value>
-    <comment>{0} hours</comment>
+    <value>{0} óra</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMilliseconds" xml:space="preserve">
-    <value>{0} אלפיות שנייה</value>
-    <comment>{0} milliseconds</comment>
-  </data>
-  <data name="TimeSpanHumanize_MultipleMilliseconds_Plural" xml:space="preserve">
-    <value>{0} אלפיות שנייה</value>
-    <comment>{0} milliseconds</comment>
+    <value>{0} ezredmásodperc</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMinutes" xml:space="preserve">
-    <value>{0} דקות</value>
-    <comment>{0} minutes</comment>
-  </data>
-  <data name="TimeSpanHumanize_MultipleMinutes_Plural" xml:space="preserve">
-    <value>{0} דקות</value>
-    <comment>{0} minutes</comment>
+    <value>{0} perc</value>
   </data>
   <data name="TimeSpanHumanize_MultipleSeconds" xml:space="preserve">
-    <value>{0} שניות</value>
-    <comment>{0} seconds</comment>
+    <value>{0} másodperc</value>
   </data>
-  <data name="TimeSpanHumanize_MultipleSeconds_Plural" xml:space="preserve">
-    <value>{0} שניות</value>
-    <comment>{0} seconds</comment>
+  <data name="TimeSpanHumanize_SingleDay" xml:space="preserve">
+    <value>1 nap</value>
+  </data>
+  <data name="TimeSpanHumanize_SingleHour" xml:space="preserve">
+    <value>1 óra</value>
+  </data>
+  <data name="TimeSpanHumanize_SingleMillisecond" xml:space="preserve">
+    <value>1 ezredmásodperc</value>
+  </data>
+  <data name="TimeSpanHumanize_SingleMinute" xml:space="preserve">
+    <value>1 perc</value>
+  </data>
+  <data name="TimeSpanHumanize_SingleSecond" xml:space="preserve">
+    <value>1 másodperc</value>
+  </data>
+  <data name="TimeSpanHumanize_Zero" xml:space="preserve">
+    <value>nincs idő</value>
   </data>
   <data name="TimeSpanHumanize_MultipleWeeks" xml:space="preserve">
-    <value>{0} שבועות</value>
-    <comment>{0} weeks</comment>
+    <value>{0} hét</value>
   </data>
-  <data name="TimeSpanHumanize_MultipleWeeks_Plural" xml:space="preserve">
-    <value>{0} שבועות</value>
-    <comment>{0} weeks</comment>
-  </data>
-  <data name="DateHumanize_MultipleDaysAgo_Plural" xml:space="preserve">
-    <value>לפני {0} ימים</value>
-    <comment>{0} days ago</comment>
-  </data>
-  <data name="DateHumanize_MultipleHoursAgo_Plural" xml:space="preserve">
-    <value>לפני {0} שעות</value>
-    <comment>{0} hours ago</comment>
-  </data>
-  <data name="DateHumanize_MultipleMinutesAgo_Plural" xml:space="preserve">
-    <value>לפני {0} דקות</value>
-    <comment>{0} minutes ago</comment>
-  </data>
-  <data name="DateHumanize_MultipleMonthsAgo_Plural" xml:space="preserve">
-    <value>לפני {0} חודשים</value>
-    <comment>{0} months ago</comment>
-  </data>
-  <data name="DateHumanize_MultipleSecondsAgo_Plural" xml:space="preserve">
-    <value>לפני {0} שניות</value>
-    <comment>{0} seconds ago</comment>
-  </data>
-  <data name="DateHumanize_MultipleYearsAgo_Plural" xml:space="preserve">
-    <value>לפני {0} שנים</value>
-    <comment>{0} years ago</comment>
+  <data name="TimeSpanHumanize_SingleWeek" xml:space="preserve">
+    <value>1 hét</value>
   </data>
   <data name="DateHumanize_MultipleDaysFromNow" xml:space="preserve">
-    <value>בעוד {0} יום</value>
-    <comment>{0} days from now</comment>
-  </data>
-  <data name="DateHumanize_MultipleDaysFromNow_Dual" xml:space="preserve">
-    <value>בעוד יומיים</value>
-    <comment>in 2 days</comment>
-  </data>
-  <data name="DateHumanize_MultipleDaysFromNow_Plural" xml:space="preserve">
-    <value>בעוד {0} ימים</value>
-    <comment>{0} days from now</comment>
+    <value>{0} nap múlva</value>
   </data>
   <data name="DateHumanize_MultipleHoursFromNow" xml:space="preserve">
-    <value>בעוד {0} שעות</value>
-    <comment>in {0} hours</comment>
-  </data>
-  <data name="DateHumanize_MultipleHoursFromNow_Dual" xml:space="preserve">
-    <value>בעוד שעתיים</value>
-    <comment>in 2 hours</comment>
-  </data>
-  <data name="DateHumanize_MultipleHoursFromNow_Plural" xml:space="preserve">
-    <value>בעוד {0} שעות</value>
-    <comment>in {0} hours</comment>
+    <value>{0} óra múlva</value>
   </data>
   <data name="DateHumanize_MultipleMinutesFromNow" xml:space="preserve">
-    <value>בעוד {0} דקות</value>
-    <comment>in {0} minutes</comment>
-  </data>
-  <data name="DateHumanize_MultipleMinutesFromNow_Dual" xml:space="preserve">
-    <value>בעוד 2 דקות</value>
-    <comment>in 2 minutes</comment>
-  </data>
-  <data name="DateHumanize_MultipleMinutesFromNow_Plural" xml:space="preserve">
-    <value>בעוד {0} דקות</value>
-    <comment>in {0} minutes</comment>
+    <value>{0} perc múlva</value>
   </data>
   <data name="DateHumanize_MultipleMonthsFromNow" xml:space="preserve">
-    <value>בעוד {0} חודשים</value>
-    <comment>in {0} months</comment>
-  </data>
-  <data name="DateHumanize_MultipleMonthsFromNow_Dual" xml:space="preserve">
-    <value>בעוד חודשיים</value>
-    <comment>in 2 months</comment>
-  </data>
-  <data name="DateHumanize_MultipleMonthsFromNow_Plural" xml:space="preserve">
-    <value>בעוד {0} חודשים</value>
-    <comment>in {0} months</comment>
-  </data>
-  <data name="DateHumanize_MultipleYearsFromNow" xml:space="preserve">
-    <value>בעוד {0} שנה</value>
-    <comment>in {0} years</comment>
-  </data>
-  <data name="DateHumanize_MultipleYearsFromNow_Dual" xml:space="preserve">
-    <value>בעוד שנתיים</value>
-    <comment>in 2 years</comment>
-  </data>
-  <data name="DateHumanize_MultipleYearsFromNow_Plural" xml:space="preserve">
-    <value>בעוד {0} שנים</value>
-    <comment>in {0} years</comment>
-  </data>
-  <data name="DateHumanize_Now" xml:space="preserve">
-    <value>כעת</value>
-    <comment>now</comment>
-  </data>
-  <data name="DateHumanize_SingleDayFromNow" xml:space="preserve">
-    <value>מחר</value>
-    <comment>tomorrow</comment>
-  </data>
-  <data name="DateHumanize_SingleHourFromNow" xml:space="preserve">
-    <value>בעוד שעה</value>
-    <comment>in an hour</comment>
-  </data>
-  <data name="DateHumanize_SingleMinuteFromNow" xml:space="preserve">
-    <value>בעוד דקה</value>
-    <comment>in a minute</comment>
-  </data>
-  <data name="DateHumanize_SingleMonthFromNow" xml:space="preserve">
-    <value>בעוד חודש</value>
-    <comment>in a month</comment>
-  </data>
-  <data name="DateHumanize_SingleYearFromNow" xml:space="preserve">
-    <value>בעוד שנה</value>
-    <comment>in a year</comment>
+    <value>{0} hónap múlva</value>
   </data>
   <data name="DateHumanize_MultipleSecondsFromNow" xml:space="preserve">
-    <value>בעוד {0} שניות</value>
-    <comment>in {0} seconds</comment>
+    <value>{0} másodperc múlva</value>
   </data>
-  <data name="DateHumanize_MultipleSecondsFromNow_Dual" xml:space="preserve">
-    <value>בעוד 2 שניות</value>
-    <comment>in 2 seconds</comment>
+  <data name="DateHumanize_MultipleYearsFromNow" xml:space="preserve">
+    <value>{0} év múlva</value>
   </data>
-  <data name="DateHumanize_MultipleSecondsFromNow_Plural" xml:space="preserve">
-    <value>בעוד {0} שניות</value>
-    <comment>in {0} seconds</comment>
+  <data name="DateHumanize_Now" xml:space="preserve">
+    <value>most</value>
+  </data>
+  <data name="DateHumanize_SingleDayFromNow" xml:space="preserve">
+    <value>holnap</value>
+  </data>
+  <data name="DateHumanize_SingleHourFromNow" xml:space="preserve">
+    <value>egy óra múlva</value>
+  </data>
+  <data name="DateHumanize_SingleMinuteFromNow" xml:space="preserve">
+    <value>egy perc múlva</value>
+  </data>
+  <data name="DateHumanize_SingleMonthFromNow" xml:space="preserve">
+    <value>egy hónap múlva</value>
   </data>
   <data name="DateHumanize_SingleSecondFromNow" xml:space="preserve">
-    <value>בעוד שנייה</value>
-    <comment>in a second</comment>
+    <value>egy másodperc múlva</value>
+  </data>
+  <data name="DateHumanize_SingleYearFromNow" xml:space="preserve">
+    <value>egy év múlva</value>
   </data>
   <data name="TimeSpanHumanize_MultipleMonths" xml:space="preserve">
-    <value>{0} חודשים</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleMonths_Dual" xml:space="preserve">
-    <value>חודשיים</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleMonths_Plural" xml:space="preserve">
-    <value>{0} חודשים</value>
+    <value>{0} hónap</value>
   </data>
   <data name="TimeSpanHumanize_MultipleYears" xml:space="preserve">
-    <value>{0} שנים</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleYears_Dual" xml:space="preserve">
-    <value>שנתיים</value>
-  </data>
-  <data name="TimeSpanHumanize_MultipleYears_Plural" xml:space="preserve">
-    <value>{0} שנים</value>
+    <value>{0} év</value>
   </data>
   <data name="TimeSpanHumanize_SingleMonth" xml:space="preserve">
-    <value>חודש</value>
+    <value>egy hónap</value>
   </data>
   <data name="TimeSpanHumanize_SingleYear" xml:space="preserve">
-    <value>שנה</value>
+    <value>egy év</value>
   </data>
 </root>
