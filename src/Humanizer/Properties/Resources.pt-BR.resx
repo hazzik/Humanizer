@@ -274,7 +274,7 @@
     <value>{0} days ago</value>
   </data>
   <data name="DateHumanize_MultipleDaysAgo_Dual" xml:space="preserve">
-    <value>{0} days ago</value>
+    <value>{0} dias atrás</value>
   </data>
   <data name="DateHumanize_MultipleDaysAgo_Plural" xml:space="preserve">
     <value>{0} days ago</value>
