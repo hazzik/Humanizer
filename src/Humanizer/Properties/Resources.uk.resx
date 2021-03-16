@@ -232,7 +232,7 @@
     <value>через рік</value>
   </data>
   <data name="DateHumanize_MultipleHoursFromNow_Dual" xml:space="preserve">
-    <value>{0} hours from now</value>
+    <value>через {0} години</value>
   </data>
   <data name="DateHumanize_MultipleMinutesFromNow_Plural" xml:space="preserve">
     <value>{0} minutes from now</value>
